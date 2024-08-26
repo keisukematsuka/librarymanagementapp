@@ -5,3 +5,7 @@ const EditBookPage = () => {
 };
 
 export default EditBookPage;
+
+//useParamsでidを取得
+//ダミーデータからインポート
+// find関数で配列を指定
